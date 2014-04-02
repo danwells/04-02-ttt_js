@@ -2,7 +2,7 @@ JsTttProj::Application.routes.draw do
   resources :users
   resources :games
   
-  root :to => 'games#index'
+  root :to => 'games#new'
 end
 
   # The priority is based upon order of creation:

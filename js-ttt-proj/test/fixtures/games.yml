@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  board_arr: MyText
+  user_mark: MyString
+  ai_mark: MyString
+  first_player: MyString
+  status_code: MyString
+
+two:
+  board_arr: MyText
+  user_mark: MyString
+  ai_mark: MyString
+  first_player: MyString
+  status_code: MyString
